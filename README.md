@@ -1,6 +1,6 @@
 # library-management-sstem
 Just another python practice tutorial by #codewithharry
-<!DOCTYPE html>
+<!DOCTYPE html><title>Library Management</title>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
