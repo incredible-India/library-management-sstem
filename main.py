@@ -51,7 +51,7 @@ if __name__ == "__main__":
         elif a == 3:
             centraLibrary.returnBook(student.returnBook())
         elif a == 4:
-            print("Thanks for choosing Central Library. Have a great day ahead!")
+            print("Thanks for choosing Central Library. Have a great day !")
             exit()
         else:
             print("Invalid Choice!")
